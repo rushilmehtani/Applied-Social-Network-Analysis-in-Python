@@ -1,0 +1,21 @@
+1. 0.67
+
+2. 0.6
+
+3. 0.33
+
+4. 6
+
+5. - The assumption of degree centrality is that important nodes have more connections.
+   - We can use subsets of node-pairs to approximate betweenness centrality.
+
+6. - Adding out-links of a node will always decrease its PR.
+   - The authority and hub score of each node is obtained by computing multiple iterations of HITS algorithm and both scores of most networks are convergent.
+
+7. 0.95
+
+8. 0.625
+
+9. 0.57, 0.09
+
+10. Node D’s authority and hub score after k iterations (k>=1) are always 0.

@@ -1,0 +1,30 @@
+1. 0.7
+
+2. Network (A) has higher average local clustering coecient but lower transitivity than (B).
+
+3. - The radius of this network is half of its diameter.
+   - The deletion of node G will make the network disconnected.
+   - If we perform Breadth-First Search (BFS) from node A, the BFS tree we obtain will have a depth of 4.
+   - The eccentricity of node B and C are equal.
+
+4. - It is a disconnected graph with 2 connected components.
+   - If edge (E,G) is removed, the number of connected components will not change.
+   - We can make the graph connected by adding edge (E,J).
+
+5. - Only network (B) is a strongly connected graph.
+   - We only need to add one directed edge in order to change network (C) to a strongly connected graph.
+
+6. - The closure of an airport and the cancellation of a ight route are examples of two dierent kinds of network attacks in the real world.
+   - Adding more edges to a network always makes it more robust.
+   - A network that has a high average local clustering coecient always has a high node connectivity.
+   - Network robustness measures a network’s ability to maintain its connectivity.
+   - Adding edges to a network can never make the network less robust.
+
+7. 1 
+
+8. 2
+
+9. 8
+
+10. - Removing node F and H
+    - Removing edges (H,K) and (E,F)
